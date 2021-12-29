@@ -1,0 +1,82 @@
+{
+  "andhra-pradesh": [
+    "VISAKHAPATNAM",
+    "GUNTUR",
+    "KAKINADA",
+    "KURNOOL",
+    "NELLORE"
+  ],
+  "assam": ["GUWAHATI"],
+  "bihar": ["PATNA"],
+  "chhattisgarh": ["RAIPUR"],
+  "gujarat": ["AHMEDABAD", "JAMNAGAR", "RAJKOT", "SURAT", "VADODARA"],
+  "haryana": ["AMBALA", "FARIDABAD", "GURGAON", "KARNAL"],
+  "himachal-pradesh": ["SHIMLA"],
+  "jammu-and-kashmir": ["NO CITIES FOUND"],
+  "jharkhand": ["RANCHI", "JAMSHEDPUR"],
+  "karnataka": [
+    "BANGALORE",
+    "BELGAUM",
+    " GULBARGA",
+    " MANAGALORE",
+    "MYSORE",
+    "SHIMOGA",
+    "UDUPI"
+  ],
+  "kerala": [
+    "THRUVANANTHPURAM",
+    "KANNUR",
+    "KOZHIKODE",
+    "MALAPPURAM",
+    "THRISSUR"
+  ],
+  "madhya-pradesh": ["BHOPAL", "INDORE", "JABALPUR", "RATLAM"],
+  "maharashtra": [
+    "MUMBAI",
+    "AMRAVATI",
+    "AURANGABAD",
+    "JALGAON",
+    "KOLHAPUR",
+    "NANDED",
+    "PUNE",
+    "SANGLI",
+    "SOLAPUR",
+    "THANE"
+  ],
+  "odisha": ["BHUBANESHWAR", "CUTTACK"],
+  "punjab": ["LUDHIANA"],
+  "rajasthan": ["JAIPUR", "JODHPUR", "KOTA", "UDAIPUR"],
+  "tamil-nadu": [
+    "CHENNAI",
+    "COIMBATOR",
+    "DINDIGUL",
+    "ERODE",
+    "KARUR",
+    "MADURAI",
+    "NAGARCOIL",
+    "SALEM",
+    "THANJAVUR",
+    "TIRUNELVELI",
+    "VELLORE"
+  ],
+  "telangana": ["HYDERABAD", "WARANGAL"],
+  "uttar-pradesh": [
+    "LUCKNOW",
+    "AGRA",
+    "ALIGARH",
+    "ALLAHABAD",
+    "BAREILLY",
+    "GHAZIABAD",
+    "KANPUR",
+    "MEERUT",
+    "NOIDA",
+    "VARANASI"
+  ],
+  "uttarakhand": ["DEHRADUN"],
+  "west-bengal": ["KOLKATA"],
+  "chandigarh": ["NO CITIES FOUND"],
+  "jammu": ["NO CITIES FOUND"],
+  "delhi": ["NO CITIES FOUND"],
+  "pondicherry": ["NO CITIES FOUND"],
+  "srinagar": ["NO CITIES FOUND"]
+}
